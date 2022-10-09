@@ -13,3 +13,5 @@ Curto automatizar qualquer coisa, desde um botão pra fechar janelas à scripts,
 Jogos preferidos: Tibia, point blank, league of legends, path of exile.
 
 Projetos em execução: KASSABOT (bot privado para o jogo tibia em AHK)
+
+Projetos finalizados: No-recoil para o jogo point blank em AHK
