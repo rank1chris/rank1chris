@@ -12,6 +12,28 @@ Curto automatizar qualquer coisa, desde um botão pra fechar janelas à scripts,
 
 Jogos preferidos: Tibia, point blank, league of legends, path of exile.
 
-Projetos em execução: KASSABOT (bot privado para o jogo tibia em AHK)
+Projetos em execução: 
 
-Projetos finalizados: No-recoil para o jogo point blank em AHK
+KASSABOT (bot privado para o jogo tibia em AHK), o mesmo contém:
+AutoHealSpells
+AutoHealPotions
+AutoHealMana
+AutoLoot
+AutoSio EK/RP
+AutoAmulet
+AutoRing
+CooldownHelper
+ComboRP (comba conforme as arrows forem sendo gastas)
+Anti-AFK
+DragMouse
+FlaskDropper
+AutoEatFood
+AutoUtaniHur
+Anti-Paralyze
+Opção pra deixar o tibia transparente (utilizar no Tibia RL)
+Opção pra deixar AlwaysOnTop
+
+Projetos finalizados: 
+
+No-recoil para o jogo point blank em AHK
+1-Key-Reset para otimizar o reset de speedruns do GTA San Andreas em AHK
