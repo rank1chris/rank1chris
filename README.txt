@@ -37,3 +37,5 @@ Projetos finalizados:
 
 No-recoil para o jogo point blank em AHK
 1-Key-Reset para otimizar o reset de speedruns do GTA San Andreas em AHK
+AutoFlask (Com hotkey e Automático caso a vida/mana baixar) pro Path of Exile em AHK 
+
