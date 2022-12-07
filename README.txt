@@ -32,6 +32,8 @@ Anti-Paralyze
 Opção pra deixar o tibia transparente (utilizar no Tibia RL)
 Opção pra deixar AlwaysOnTop
 
+Orbwalker para o jogo League of legends em C++
+
 Projetos pessoais finalizados: 
 
 No-recoil para o jogo point blank em AHK
