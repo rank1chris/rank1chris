@@ -8,7 +8,7 @@ Cursando Informática - UEM
 
 Linguagens que já usei: AHK, LUA, C, Java.
 
-Curto automatizar qualquer coisa, desde um botão pra fechar janelas à scripts, bots e macros.
+Gosto de automatizar qualquer coisa, desde um botão pra fechar janelas à scripts, bots e macros.
 
 Projetos pessoais em desenvolvimento: 
 
