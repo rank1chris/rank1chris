@@ -6,7 +6,7 @@
                                                                                                                       
 Cursando Informática - UEM
 
-Linguagens que já usei: AHK, LUA, C, Java.
+Linguagens que já usei: AHK, LUA, C, Java, Python.
 
 Gosto de automatizar qualquer coisa, desde um botão pra fechar janelas à scripts, bots e macros.
 
